@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Modelos / pesos (opcional pero recomendado)
+*.h5
+*.keras
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
