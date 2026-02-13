@@ -1,4 +1,5 @@
 Profesor: Enrique Paiva
+
 Alumno: Iván González
 
 Trabajo para Redes Neuronales
